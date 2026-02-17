@@ -7,4 +7,4 @@ select
     category_id,
     model_year,
     list_price
-from {{ source('dbt_localbike', 'products') }};
+from {{ source('dbt_localbike', 'products') }}

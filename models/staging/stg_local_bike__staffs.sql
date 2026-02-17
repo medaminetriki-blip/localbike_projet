@@ -9,4 +9,4 @@ select
     active,
     store_id,
     manager_id
-from {{ source('dbt_localbike', 'staffs') }};
+from {{ source('dbt_localbike', 'staffs') }}

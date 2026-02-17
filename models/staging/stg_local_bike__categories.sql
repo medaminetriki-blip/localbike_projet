@@ -3,4 +3,4 @@
 select
     category_id,
     category_name
-from {{ source('dbt_localbike', 'categories') }};
+from {{ source('dbt_localbike', 'categories') }}

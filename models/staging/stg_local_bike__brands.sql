@@ -3,4 +3,4 @@
 select
     brand_id,
     brand_name
-from {{ source('dbt_localbike', 'brands') }};
+from {{ source('dbt_localbike', 'brands') }}
