@@ -2,15 +2,15 @@
 # 🚲 Local Bike – Projet DBT
 
 ## 📌 Description du projet
-Ce projet DBT a pour objectif de structurer, tester et documenter les données brutes de Local Bike afin de fournir une base analytique fiable permettant d’optimiser les ventes, les opérations et les revenus de l’entreprise. [1](https://cacommun-my.sharepoint.com/personal/amine_triki_ca-assurances_fr/Documents/Microsoft%20Copilot%20Chat%20Files/Copilot%20Notebook%20Uploads/localbikes.pdf)
+Ce projet DBT a pour objectif de structurer, tester et documenter les données brutes de Local Bike afin de fournir une base analytique fiable permettant d’optimiser les ventes, les opérations et les revenus de l’entreprise. 
 
 ---
 
 ## 🏢 Contexte métier
 Local Bike est une entreprise fondée par Alexander Anthony, ancien cycliste professionnel, avec la mission de démocratiser l’usage du vélo et de promouvoir les mobilités douces aux États‑Unis.  
-L’entreprise est implantée dans trois villes stratégiques : **Santa Cruz**, **Baldwin** et **Rowlett**, choisies pour leur potentiel de développement de la culture cycliste. [1](https://cacommun-my.sharepoint.com/personal/amine_triki_ca-assurances_fr/Documents/Microsoft%20Copilot%20Chat%20Files/Copilot%20Notebook%20Uploads/localbikes.pdf)
+L’entreprise est implantée dans trois villes stratégiques : **Santa Cruz**, **Baldwin** et **Rowlett**, choisies pour leur potentiel de développement de la culture cycliste. 
 
-Local Bike souhaite devenir une entreprise **data-driven** et s'appuie sur un premier projet analytique pour structurer ses données, mieux comprendre ses performances et soutenir son développement. [1](https://cacommun-my.sharepoint.com/personal/amine_triki_ca-assurances_fr/Documents/Microsoft%20Copilot%20Chat%20Files/Copilot%20Notebook%20Uploads/localbikes.pdf)
+Local Bike souhaite devenir une entreprise **data-driven** et s'appuie sur un premier projet analytique pour structurer ses données, mieux comprendre ses performances et soutenir son développement. 
 
 ---
 
