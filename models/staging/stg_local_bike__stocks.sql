@@ -4,4 +4,4 @@ select
     store_id,
     product_id,
     quantity
-from {{ source('dbt_localbike', 'stocks') }};
+from {{ source('dbt_localbike', 'stocks') }}

@@ -9,4 +9,4 @@ select
     city,
     state,
     zip_code
-from {{ source('dbt_localbike', 'stores') }};
+from {{ source('dbt_localbike', 'stores') }}

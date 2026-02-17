@@ -43,4 +43,4 @@ enriched as (
 )
 
 select * 
-from enriched;
+from enriched

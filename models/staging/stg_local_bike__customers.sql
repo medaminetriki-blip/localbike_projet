@@ -33,4 +33,4 @@ cleaned as (
 )
 
 select * 
-from cleaned;
+from cleaned

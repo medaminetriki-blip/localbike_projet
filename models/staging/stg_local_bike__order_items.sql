@@ -7,4 +7,4 @@ select
     quantity,
     list_price,
     discount
-from {{ source('dbt_localbike', 'order_items') }};
+from {{ source('dbt_localbike', 'order_items') }}
